@@ -1,0 +1,5 @@
+REQUIREMENTS
+numpy
+tesseract
+glob
+re
